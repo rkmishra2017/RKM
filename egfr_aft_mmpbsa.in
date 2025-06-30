@@ -1,6 +1,6 @@
 Input file for running PB and GB
 &general
-   startframe=40001, endframe=50000, interval=1,
+   startframe=40000, endframe=50000, interval=1,
    verbose=2, keep_files=0,
 /
 &gb
